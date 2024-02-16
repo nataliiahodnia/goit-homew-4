@@ -133,6 +133,10 @@ li {
   position: relative;
 }
 
+.menu .link {
+ color: #404bbf;
+}
+
 /* .menu:hover .link::after {
   background-color: #404bbf;
 } */
@@ -391,7 +395,7 @@ main {
   transform: translatey(0);
 }
 
-.portfolio-item-link {
+.portfolio-item {
  text-decoration: none;
 }
 
